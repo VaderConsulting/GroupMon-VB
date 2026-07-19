@@ -1,0 +1,8 @@
+# This is the list of groups to monitor.
+# Place comments in this file behind the hash symbol
+#
+LDAP://CN=Domain Admins,CN=Users,DC=YourOrganisation,DC=com,DC=au|groupmonitoring1@yourorganisation
+LDAP://CN=Enterprise Admins, CN=Users,DC=YourOrganisation,DC=com,DC=au|groupmonitoring2@yourorganisation
+LDAP://CN=Administrators,CN=BuiltIn, DC=YourOrganisation,DC=com,DC=au|groupmonitoring3@yourorganisation
+LDAP://CN=Account Operators,CN=BuiltIn, DC=YourOrganisation,DC=com,DC=au|groupmonitoring4@yourorganisation
+LDAP://CN=Print Operators,CN=BuiltIn, DC=YourOrganisation,DC=com,DC=au|groupmonitoring5@yourorganisation

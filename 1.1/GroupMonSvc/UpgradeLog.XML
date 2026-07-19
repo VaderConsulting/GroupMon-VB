@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GroupMonSvc">
+</Property><Property Name="Solution File" Value="E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\GroupMonSvc.sln">
+</Property><Property Name="User Options File" Value="E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\GroupMonSvc.suo">
+</Property><Property Name="Date" Value="Friday, 22 September 2006">
+</Property><Property Name="Time" Value="13:27 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GroupMonSvc.sln" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\GroupMonSvc.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GroupMonSvc.suo" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\GroupMonSvc.suo">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="GroupMonSvc.vbproj" Description="Project file successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\GroupMonSvc.vbproj">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="GroupMonSvc.vbproj.user" Description="Project user file successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\GroupMonSvc.vbproj.user">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="AssemblyInfo.vb" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="ProjectInstaller.vb" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\ProjectInstaller.vb">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="Service.vb" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Service.vb">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="Worker.vb" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Worker.vb">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="app.config" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="GroupMonSvc.mdx" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\GroupMonSvc.mdx">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="obj\Interop.ActiveDs.mdx" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\obj\Interop.ActiveDs.mdx">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="Exclude.txt" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Exclude.txt">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="GroupList.txt" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\GroupList.txt">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="ProjectInstaller.resx" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\ProjectInstaller.resx">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="Service.resx" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Service.resx">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="GroupMonSvc.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GroupMonSvc" Source="GroupMonSvc.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="ServiceSetup" Source="..\ServiceSetup\ServiceSetup.vdproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="ServiceSetup.vdproj" Source="..\ServiceSetup\ServiceSetup.vdproj" Description="Project file successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\ServiceSetup\ServiceSetup.vdproj">
+</Event><Event ErrorLevel="1" Project="Test" Source="..\Test\Test.vbproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Test.vbproj" Description="Project file successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Test\Test.vbproj">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Test.vbproj.user" Description="Project user file successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Test\Test.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\AssemblyInfo.vb" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Test\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Form1.vb" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Test\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\TestWorker.vb" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Test\TestWorker.vb">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\app.config" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Test\app.config">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Form1.resx" Description="File successfully backed up as E:\Work\Justice\Security\GroupMon\1.1\GroupMonSvc\Backup\Backup\Test\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Test.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Test" Source="..\Test\Test.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GroupMonSvc.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GroupMonSvc.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GroupMonSvc" Source="GroupMonSvc.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ServiceSetup.vdproj" Source="..\ServiceSetup\ServiceSetup.vdproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ServiceSetup.vdproj" Source="..\ServiceSetup\ServiceSetup.vdproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test" Source="..\Test\Test.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

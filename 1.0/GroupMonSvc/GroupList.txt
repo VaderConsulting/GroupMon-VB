@@ -1,0 +1,9 @@
+# This is the list of groups to monitor.
+# Place comments in this file behind the hash symbol
+#
+LDAP://CN=Domain Admins,CN=Users,DC=intranet,DC=justice,DC=wa,DC=gov,DC=au
+LDAP://CN=Enterprise Admins,CN=Users,DC=intranet,DC=justice,DC=wa,DC=gov,DC=au
+LDAP://CN=Forest Management,OU=Forest Management,DC=intranet,DC=justice,DC=wa,DC=gov,DC=au
+LDAP://CN=Administrators,CN=BuiltIn,DC=intranet,DC=justice,DC=wa,DC=gov,DC=au
+LDAP://CN=Account Operators,CN=BuiltIn,DC=intranet,DC=justice,DC=wa,DC=gov,DC=au
+LDAP://CN=Print Operators,CN=BuiltIn,DC=intranet,DC=justice,DC=wa,DC=gov,DC=au

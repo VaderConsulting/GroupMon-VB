@@ -1,0 +1,22 @@
+﻿# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Legacy source-control bindings
+*.scc
+*.vssscc
+
+# NuGet
+packages/
+
+# Logs and temp
+*.log
+*.tmp
+*.bak

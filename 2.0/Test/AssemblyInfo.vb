@@ -1,0 +1,32 @@
+Imports System
+Imports System.Reflection
+Imports System.Runtime.InteropServices
+
+' General Information about an assembly is controlled through the following 
+' set of attributes. Change these attribute values to modify the information
+' associated with an assembly.
+
+' Review the values of the assembly attributes
+
+<Assembly: AssemblyTitle("Group Status")> 
+<Assembly: AssemblyDescription("Displays members of the selected group on demand")> 
+<Assembly: AssemblyCompany("Realtag")> 
+<Assembly: AssemblyProduct("Group Monitoring Service")> 
+<Assembly: AssemblyCopyright("2007 Realtag")> 
+<Assembly: AssemblyTrademark("")> 
+<Assembly: CLSCompliant(True)> 
+
+'The following GUID is for the ID of the typelib if this project is exposed to COM
+<Assembly: Guid("5AB4082C-2318-4320-8470-D4D21C18446B")> 
+
+' Version information for an assembly consists of the following four values:
+'
+'      Major Version
+'      Minor Version 
+'      Build Number
+'      Revision
+'
+' You can specify all the values or you can default the Build and Revision Numbers 
+' by using the '*' as shown below:
+
+<Assembly: AssemblyVersion("1.0.*")> 

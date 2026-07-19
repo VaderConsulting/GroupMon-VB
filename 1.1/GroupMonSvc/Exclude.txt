@@ -1,0 +1,3 @@
+# Exclude the following accounts from any reporting
+#
+LDAP://CN=SMS*

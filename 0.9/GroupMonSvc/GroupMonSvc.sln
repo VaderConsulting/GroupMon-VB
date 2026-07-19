@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GroupMonSvc", "GroupMonSvc.vbproj", "{5D2B78F8-ED1D-4B85-95A5-EF513C2A0C60}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GroupMonitorServiceSetup", "..\ServiceSetup\ServiceSetup.vdproj", "{A67FC19C-94C0-417E-A414-8923A52435B1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Test", "..\Test\Test.vbproj", "{DAA9DE55-62C5-46B4-9335-046DB4C87D62}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5D2B78F8-ED1D-4B85-95A5-EF513C2A0C60}.Debug.ActiveCfg = Debug|.NET
+		{5D2B78F8-ED1D-4B85-95A5-EF513C2A0C60}.Debug.Build.0 = Debug|.NET
+		{5D2B78F8-ED1D-4B85-95A5-EF513C2A0C60}.Release.ActiveCfg = Release|.NET
+		{5D2B78F8-ED1D-4B85-95A5-EF513C2A0C60}.Release.Build.0 = Release|.NET
+		{A67FC19C-94C0-417E-A414-8923A52435B1}.Debug.ActiveCfg = Debug
+		{A67FC19C-94C0-417E-A414-8923A52435B1}.Release.ActiveCfg = Release
+		{DAA9DE55-62C5-46B4-9335-046DB4C87D62}.Debug.ActiveCfg = Debug|.NET
+		{DAA9DE55-62C5-46B4-9335-046DB4C87D62}.Debug.Build.0 = Debug|.NET
+		{DAA9DE55-62C5-46B4-9335-046DB4C87D62}.Release.ActiveCfg = Release|.NET
+		{DAA9DE55-62C5-46B4-9335-046DB4C87D62}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
