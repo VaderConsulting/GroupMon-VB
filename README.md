@@ -1,5 +1,7 @@
 ﻿# GroupMon
 
+**Source last updated:** 2012-07-07
+
 Historical VB.NET tooling for monitoring Active Directory group membership changes and reporting notifications.
 
 ## Contents
