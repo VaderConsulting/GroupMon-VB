@@ -14,6 +14,10 @@ Historical VB.NET tooling for monitoring Active Directory group membership chang
 
 No third-party source attribution markers were identified during this review.
 
+## Requirements
+
+- Visual Studio 2005
+
 ## License
 
 MIT. See `LICENSE`.
